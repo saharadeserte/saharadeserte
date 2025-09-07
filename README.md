@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saharadeserte
-- 👀 I’m interested in: software development (Python, Java), cryptography and encryption methods, and finding a way to get a cup of boba from my computer monitor
-- 🌱 I’m currently learning python and information security
+- 👀 I’m interested in: software development, cybersecurity, and finding shortcuts for anything through programming.
+- 🌱 I’m currently learning python and information security.
 - 💞️ I’m open to collaborate on any projects, just send me a message or email.
 - 📫 You can reach me at saharayahabibti@gmail.com
 - 😄 Pronouns: She/Her
