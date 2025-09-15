@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on a **Web Novel Archiver**
 
-- 📫 Contact me: **saharayahabibti@gmail.com**
-
 - ⚡ Fun fact: **I have absolutely no experience in archiving, just started with a passion for reading.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: </h3
+📧 Email: saharayahabibti@gmail.com
+🎮 Discord: @saharayahabibti
 <p align="left">
   <!--------<a href="https://linkedin.com/in/sarah-mehr-siddiqui" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarah-mehr-siddiqui" height="30" width="40" /></a>
 </p> ------------->
