@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a **Web Novel Archiver**
 
-- ⚡ Fun fact: **I have absolutely no experience in archiving, just started with a passion for reading.**
+- ⚡ Fun fact: **I had absolutely no experience in web parsing, just started with a passion for reading.**
 
 <h3 align="left">Connect with me: </h3
 📧 Email: saharayahabibti@gmail.com
