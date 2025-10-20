@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on an application that is a **Web Novel Archiver**
 
-- ⚡ Fun fact: **I had absolutely no experience in web parsing, just started with a passion for reading. But so far it can automaticaly scan through hundreds of chapters, format them(with customizations), and compile them into a .PDF or .EPUB. I am trying to find a way to implement a way to edit the metadata of the EPUB (like Calibre Biblioteca), but the function is more than good enough for my hobby.**
+- ⚡ Fun fact: **I had absolutely no experience in web parsing, just started with a passion for reading. But so far it can automaticaly scan through hundreds of online chapters, format them(with custom REGEX queries), and compile them into a .PDF or .EPUB. I am trying to find a way to implement a way to edit the metadata of the EPUB (like Calibre Biblioteca), but the function is more than good enough for my hobby.**
 
 <h3 align="left">Connect with me: </h3>
 📧 Email: saharayahabibti@gmail.com
